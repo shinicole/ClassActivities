@@ -9,7 +9,7 @@ let age = 28;
 // create a variable called "onlyChild" that references a boolean
 let onlychild = true;
 // create a variable called "satisfied" that references a boolean
-let satified = false;
+let satisfied = false;
 // create a variable called "favoriteThing" that references ANY primitive value
 
 let favoriteThing = "Tacos"
@@ -32,5 +32,5 @@ age =32;
 wage =70;
 // Your raise changed your job satisfaction.
 // Assign "satisfied" to true
-satified =true;
+satisfied =true;
 // use "console.log()" and "+" to print a sentence that includes two of the above variables
